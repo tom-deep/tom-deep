@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+During the day, I am a computer engineer specializing in reverse engineering, malware analysis, and embedded systems. In the evenings, I am working to complete my M.S. in Computer Engineering at the University of Dayton. I obtained my B.S. in Software Engineering with a focus in mathematics from Miami University.
+
+Outside of work, I enjoy analyzing data on financial markets, live music, stand-up comedy, and reading.
